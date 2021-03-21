@@ -1,7 +1,7 @@
 '''
 ### A star Pathfinding Algorithm Visualization ###
 
-## This project was refrenced from a youtube tutorial by "Tech With Tim" altough some modifications where made here and there. ##
+## This project was refrenced from a youtube tutorial by "Tech With Tim" although some modifications where made here and there. ##
 
 # Naser Dakhel # 20/3/2021 #
 '''
